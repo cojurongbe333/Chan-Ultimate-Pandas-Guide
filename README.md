@@ -1,5 +1,5 @@
 
-# 🐼 Pandas Mastery Hub 🧠  
+# 🐼 Ultimate Pandas Guide 🧠  
 *Your Personal Playground to Master Data Analysis with Python's Best Tool*
 
 ![pandas logo](https://pandas.pydata.org/static/img/pandas_white.svg)
@@ -8,7 +8,7 @@
 
 ## 🚀 Welcome!
 
-Welcome to the **Pandas Mastery Hub**, your all-in-one, highly practical, ultra-fun place to learn everything `pandas`! 🧪📊  
+Welcome to the **Ultimate Pandas Guide**, your all-in-one, highly practical, ultra-fun place to learn everything `pandas`! 🧪📊  
 Whether you're wrangling your first CSV or building a machine learning pipeline, this repo has you covered.
 
 > 🗣️ “Pandas is a Swiss Army knife for data.” – Every Data Scientist Ever
@@ -62,7 +62,7 @@ Find quick-reference guides in `/cheat_sheets/` like:
 
 1. **Clone this repo**  
 ```bash
-git clone https://github.com/yourusername/pandas-mastery.git
+git clone https://github.com/yourusername/Ultimate-Padnas-Guide-.git
 cd pandas-mastery
 ```
 
@@ -86,13 +86,6 @@ jupyter lab
 
 ---
 
-## 👇 Sneak Peek
-
-![sample notebook](https://user-images.githubusercontent.com/plotly/sample-notebook.png)
-> Real code. Real data. Real skills.
-
----
-
 ## 🔭 Roadmap
 
 - [x] Foundations
@@ -110,7 +103,8 @@ MIT – use it, build on it, make it your own.
 
 ---
 
-Ready to become a pandas wizard? 🧙‍♂️  
+Ready to become a pandas master?  ![PaiMeiKillBillGIF](https://github.com/user-attachments/assets/6d4bf417-fcaf-4676-a11c-09c1a6c8d7f1)
+
 Dive in, explore, and start slicing that data!
 
 ![panda gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
