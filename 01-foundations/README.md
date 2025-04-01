@@ -1,6 +1,6 @@
 🧱 01 - Foundations: Understanding Pandas Basics
 
-Welcome to the Foundations module of the Pandas Mastery Hub. This section serves as your entry point into the powerful world of data analysis with Python. Pandas is more than just a tool; it is a gateway to understanding, transforming, and drawing insights from structured data. Whether you’re analyzing a spreadsheet, cleaning a dataset, or building a model-ready data pipeline, your journey starts here.
+Welcome to the Foundations module of the Ultimate Panads Guide. This section serves as your entry point into the powerful world of data analysis with Python. Pandas is more than just a tool; it is a gateway to understanding, transforming, and drawing insights from structured data. Whether you’re analyzing a spreadsheet, cleaning a dataset, or building a model-ready data pipeline, your journey starts here.
 
 ⸻
 
