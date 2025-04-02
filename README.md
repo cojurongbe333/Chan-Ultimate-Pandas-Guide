@@ -1,8 +1,6 @@
 
 # 🐼 Ultimate Pandas Guide 🧠  
-*Your Personal Playground to Master Data Analysis with Python's Best Tool*
-
-![pandas logo](https://pandas.pydata.org/static/img/pandas_white.svg)
+*Your Personal Guide to Master Data Analysis with Python's Best Tool*
 
 ---
 
@@ -28,7 +26,7 @@ Whether you're wrangling your first CSV or building a machine learning pipeline,
 ## 📁 Repository Structure
 
 ```bash
-pandas-mastery/
+Ultimate-Pandas-Guide/
 │
 ├── 01-foundations/                # Start here!
 │   └── intro_to_pandas.ipynb
@@ -63,7 +61,6 @@ Find quick-reference guides in `/cheat_sheets/` like:
 1. **Clone this repo**  
 ```bash
 git clone https://github.com/yourusername/Ultimate-Padnas-Guide-.git
-cd pandas-mastery
 ```
 
 2. **Install the dependencies**  
