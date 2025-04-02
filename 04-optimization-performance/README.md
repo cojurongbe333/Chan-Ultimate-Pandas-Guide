@@ -18,7 +18,7 @@ High-performing pandas workflows mean:
 ### 🤖 The Cost of Convenience
 
 Pandas is user-friendly by design. But not all features are equal in speed or efficiency:
--	Operations like .apply() and .iterrows() are flexible but often slow.
+-	Operations like '.apply()' and '.iterrows()' are flexible but often slow.
 -	Copying data unnecessarily can waste memory and processing time.
 -	Chained indexing can trigger hidden performance (and correctness) issues.
 
@@ -38,25 +38,25 @@ Copying a DataFrame or Series when it’s not required increases memory usage an
 
 3. Leverage Built-in Methods
 
-Pandas’ native methods (like .mean(), .fillna(), .str.contains(), etc.) are optimized. Avoid reinventing the wheel with custom logic if a vectorized method already exists.
+Pandas’ native methods (like '.mean()', '.fillna()', '.str.contains()', etc.) are optimized. Avoid reinventing the wheel with custom logic if a vectorized method already exists.
 
 4. Minimize Chained Indexing
 
-Accessing data with multiple indexing operations (like df[df['col'] > 0]['val']) can lead to slower performance and unpredictable results. Instead, prefer a single .loc[] expression.
+Accessing data with multiple indexing operations (like 'df[df['col'] > 0]['val']') can lead to slower performance and unpredictable results. Instead, prefer a single '.loc[]' expression.
 
 5. Understand Data Types
 
 Using appropriate data types reduces memory usage. For example:
 	•	Use category for string-based columns with limited unique values
-	•	Use smaller numeric types (int32, float32) if precision allows
+	•	Use smaller numeric types ('int32', 'float32') if precision allows
 
 ---
 
 ### 🔍 Profiling and Diagnosing Slowness
 
 To improve performance, you must first measure it:
--	Use %timeit in Jupyter notebooks to benchmark specific operations
--	Use .memory_usage(deep=True) to estimate column-wise memory consumption
+-	Use '%timeit' in Jupyter notebooks to benchmark specific operations
+-	Use '.memory_usage(deep=True)' to estimate column-wise memory consumption
 - Compare performance before and after optimization to validate improvements
 
 Profiling helps you focus your effort where it truly matters — optimizing the 20% of code that takes 80% of time.
