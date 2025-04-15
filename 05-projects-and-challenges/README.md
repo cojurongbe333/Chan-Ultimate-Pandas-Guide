@@ -55,6 +55,7 @@ Each project includes questions to answer, deliverables to produce, and optional
 ### ✅ Capstone Challenge Structure
 
 Every challenge will encourage you to:
+
 	1.	Explore: Understand the data types, structures, and quirks
 	2.	Clean: Handle missing values, duplicates, formatting issues
 	3.	Transform: Apply advanced pandas techniques and reshape the data
